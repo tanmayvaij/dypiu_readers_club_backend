@@ -1,0 +1,13 @@
+# Ignore node modules
+node_modules
+
+# Ignore pnpm-lock.yaml file
+pnpm-lock.yaml
+
+# Ignore .vscode personal settings
+.vscode
+
+# Ignore environment files
+.env
+
+src/uploads
